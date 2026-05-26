@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arth Mevada</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI</h3>
+<h3 align="center">Python • SQL • Power BI</h3>
 
 <p align="center">
   <a href="mailto:arthmevada1@gmail.com">📧 Email</a> •
@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 🎓 BCA Student at Patel Group of Institution, affiliated with Gujarat Technological University (GTU)  
-📊 Aspiring Data Analyst passionate about transforming raw data into actionable business insights  
+📊 Aspiring Analyst with a strong interest in business intelligence, data analysis, and data-driven decision-making. 
 💡 Skilled in data cleaning, dashboard reporting, customer segmentation, and sales analytics  
 🚀 Built multiple end-to-end projects using Python, SQL, Power BI, and Excel  
 
