@@ -29,7 +29,8 @@
 ### 📊 Data Visualization
 - Power BI
 - Microsoft Excel (Pivot Tables, VLOOKUP, Charts)
-
+- Google sheets
+- 
 ### 📚 Concepts
 - Data Cleaning
 - Customer Segmentation
@@ -44,70 +45,6 @@
 - GitHub
 
 ---
-
-# 📂 Featured Projects
-
-## 📈 USA Regional Sales Analysis
-🔗 Repository:  
-https://github.com/arthmevada/sales-data-analysis-project
-
-### Project Highlights
-- Analyzed 5-year USA sales dataset containing 10,000+ records
-- Performed data cleaning and exploratory data analysis using Python
-- Identified revenue growth trends from $23M to $26M
-- Built KPI-driven Power BI dashboard for sales performance analysis
-- Detected regional and product-level growth opportunities
-
-### Tools Used
-Python • Pandas • Power BI • Excel
-
----
-
-## 👥 Customer Segmentation using K-Means Clustering
-🔗 Repository:  
-https://github.com/arthmevada/customersegmentation
-
-### Project Highlights
-- Performed customer behavior analysis using demographic data
-- Applied K-Means clustering algorithm to create 5 customer segments
-- Identified high-value customer groups for targeted marketing
-- Visualized customer clusters using Python libraries
-
-### Tools Used
-Python • Scikit-learn • Pandas • Matplotlib
-
----
-
-## 🛒 Retail Sales Analysis
-🔗 Repository:  
-https://github.com/arthmevada/retail-sales-sql-analysis
-
-### Project Highlights
-- Designed and analyzed retail sales database using MySQL
-- Wrote SQL queries using joins, CTEs, aggregate functions, and window functions
-- Identified top customers, sales trends, and category performance
-- Generated business insights from transactional sales data
-
-### Tools Used
-SQL • MySQL
-
----
-
-## 📦 Inventory Management System
-🔗 Repository:  
-https://github.com/arthmevada/python-inventory-system
-
-### Project Highlights
-- Developed desktop inventory application with CRUD operations
-- Managed products, employees, suppliers, and categories
-- Implemented billing and invoice generation module
-- Added OTP-based secure password recovery system
-
-### Tools Used
-Python • Tkinter • MySQL
-
----
-
 # 📜 Certifications
 
 🏅 Cisco Data Analytics Essentials — Cisco Networking Academy  
@@ -115,8 +52,6 @@ Python • Tkinter • MySQL
 🏅 Tata GenAI Powered Data Analytics Job Simulation — Forage  
 
 ---
-
-
 # 🤝 Connect With Me
 
 📧 Email: arthmevada1@gmail.com  
@@ -124,7 +59,6 @@ Python • Tkinter • MySQL
 💻 GitHub: https://github.com/arthmevada
 
 ---
-
 <p align="center">
   ⭐ If you like my projects, feel free to star the repositories!
 </p>
